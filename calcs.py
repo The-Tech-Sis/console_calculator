@@ -102,7 +102,7 @@ if operations == "yes":
             print('n')
             print(f"Results for equation, {a}x**2 + {b}x+{c} = 0, are in: ")
             
-            if d > 0:
+            if d > 0: 
                 print("Type of Roots: Two Distinct Real Roots")
             elif d == 0:
                 print("Type of Roots: Two Real equal Roots")
